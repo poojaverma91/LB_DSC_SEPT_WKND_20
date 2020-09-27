@@ -1,5 +1,6 @@
 a=10
-b=10
-c=a+b
+b=12
+c=a=b
 print(c)
+
 
